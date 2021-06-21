@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>bg</title>
+        <link rel="stylesheet" href="style6.css">
+    </head>   
+    <body>
+        <div class="container">
+            <div class="inner">             
+            </div>
+        </div>
+    </body>
